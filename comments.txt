@@ -2,3 +2,7 @@ CTRL + J (power shell)
 
 git clone URL (to clone git repo)
 git status (to check repo status)
+git add . (to add all the untrack files)
+git commit -m "Mention Your Changes"
+git push -u origin main "to update the current repository"
+
