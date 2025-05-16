@@ -1,0 +1,4 @@
+CTRL + J (power shell)
+
+git clone URL (to clone git repo)
+git status (to check repo status)
