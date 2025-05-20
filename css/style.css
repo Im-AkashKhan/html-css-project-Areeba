@@ -13,3 +13,39 @@ a{
 body{
     font-family: "Poppins", sans-serif;
 }
+
+header {
+    background: transparent;
+    display: flex;
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 5vw;
+}
+
+.menues ul {
+    display: flex;
+}
+
+.menues ul li {
+    margin: 0px 15px;
+}
+
+section.banner {
+    background-image: url(../images/image.png);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: -50px;
+}
+
+a.bannerBtn {
+    background: white;
+    padding: 10px 40px;
+    margin-top: 30px;
+}
